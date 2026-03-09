@@ -1,0 +1,38 @@
+---
+import Layout from "../layouts/Layout.astro";
+const pageTitle = "Domenico Tenace - Software Developer";
+const pageDescription =
+  "Software developer passionate about the IT world and everything related to it";
+---
+
+<Layout pageTitle={pageTitle} pageDescription={pageDescription}>
+  <div class="gif">
+    <img
+      src="/images/profile.webp"
+      role="presentation"
+      width="130"
+      height="130"
+      class="profile__image"
+      decoding="async"
+    />
+  </div>
+  <div class="center">
+    <h1>Domenico Tenace</h1>
+    <span class="badge">Software Developer</span>
+  </div>
+  <h2>Biography</h2>
+  <p>
+    I am a software developer based in Italy, where I have accumulated over five
+    years of experience in application development. I started out as a
+    full-stack developer, then focused on backend development. I specialize in
+    C# and the entire .NET environment, which I use to build backend services,
+    but I also have experience in building interfaces with Javascript frameworks
+    like Vue and Nuxt.
+  </p>
+  <p>
+    I have contributed to public open source projects and create my own, which I
+    make available to everyone under MIT license. I write technical articles and
+    create videos where I share my experience as a developer with languages,
+    tools, and technologies of all kinds.
+  </p>
+</Layout>
