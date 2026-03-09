@@ -3,11 +3,11 @@ title: "Post"
 author: John Doe
 date: "2026-03-13"
 image:
-  url: "/images/posts/post.png"
+  url: "/images/posts/post.webp"
   alt: "Post"
 ---
 
-   <img src="/images/posts/post.png" role="presentation" class="post__image" decoding="async">
+   <img src="/images/posts/post.webp" role="presentation" class="post__image" decoding="async">
 
 ## Overview
 

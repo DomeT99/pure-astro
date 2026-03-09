@@ -2,7 +2,7 @@
 title: "Project"
 description: "Simple example project"
 image:
-  url: "/images/projects/project.png"
+  url: "/images/projects/project.webp"
   alt: "Project 1"
 ---
 
