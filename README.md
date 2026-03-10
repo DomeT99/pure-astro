@@ -10,7 +10,7 @@ Its advantages:
 
 - **Zero JS by default:** Astro reduces page weight by shipping zero JavaScript (or the bare minimum) to the client, maximizing speed and keeping "Core Web Vitals" metrics top-notch.
 - **Content Collections support:** The entire blog and various projects rely on Markdown files (`.md` or `.mdx`), complete with strict chronological sorting and dynamic pagination features.
-- **Custom design:** The graphic interfaces are built on extensive customizations of the _Bulma CSS_ framework to make them elegant without sacrificing readability.
+- **Only CSS:** The graphic interfaces are built on pure CSS without any kind of frameworks.
 
 ## How to run it in Dev
 
